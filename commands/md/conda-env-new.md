@@ -1,7 +1,7 @@
 # Comandos Conda y Jupyter
 
 ## 1) Create env
-`$ conda create --name storagecloud`  
+`$ conda create --name storagecloud python=3.9`  
 
 ## 2) Acceder a virtual env
 `$ conda activate storagecloud`  
