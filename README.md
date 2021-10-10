@@ -3,10 +3,10 @@
 ## Ejercicios
 ### CLI y Python
 1) Autenticación.
-2) Crear buckets y subir elementos.
-3) Detalles de elementos en buckets.
-4) Eliminar elementos en bucket.
-5) Descargar objetos en bucket.
+2) Habilitar servicios de storage.
+3) Detalles de elementos en storage.
+4) Eliminar elementos storage en cloud.
+5) Descargar objetos desde cloud.
 
 ## Materiales
 * Cuentas:
