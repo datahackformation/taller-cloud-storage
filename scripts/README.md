@@ -1,0 +1,1 @@
+Scripts Python x storage services, desarrollo en clase.
